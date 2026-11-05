@@ -1,1 +1,1 @@
-Content from main branch
+This is the resolved content after merging both branches.
